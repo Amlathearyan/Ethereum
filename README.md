@@ -5,3 +5,4 @@
 3. Run in any environment. 
 
 Here are some basic codes for the beginers.
+Code is written in Solidity.
